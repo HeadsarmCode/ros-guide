@@ -803,7 +803,7 @@ To get through one: enter, `look`, try exits methodically, and accept that you'l
 
 ## 15. Other players: channels, groups, clans and PK
 
-- **Newbie channel limits:** `ooc` (or `.`) is open from **level 1** and reaches everyone in the game, so ask there if you're stuck. Until **level 10**, `tell`, `reply`, `gtell` and the other global channels are restricted. At level 10 you get the message *"You now have full channel permissions."* `say` (or `'`) always works in the same room. `help` and the `rules` are your friends.
+- **Newbie channel limits:** `ooc` (or `.`) is open from **level 1** and reaches everyone in the game, so ask there if you're stuck. `ooc history` shows the last 20 messages, so you can catch up on what was said before you logged in. Until **level 10**, `tell`, `reply`, `gtell` and the other global channels are restricted. At level 10 you get the message *"You now have full channel permissions."* `say` (or `'`) always works in the same room. `help` and the `rules` are your friends.
 - **Channels:** `ooc` (`.`), `ask`/`answer`, `grats`, `auction`, `music`, `quote`, `shout` (everyone, with a delay), `yell` (your area), `tell <player>`, `reply`. Type a channel's name alone to turn it off. `forget <player>` ignores someone.
 - **Grouping:** `follow <leader>`, then the leader types `group <you>`. Members must be **within 14 levels** of each other. Grouped players share experience, auto-assist each other and can `gtell` (`;`). Auto-split shares coins. Don't kill-steal: attacking a monster someone else is fighting breaks the rules.
 - **Notes:** `note list`, `note read`, and `unread` to see what's waiting. The `news` and `changes` boards carry announcements.
