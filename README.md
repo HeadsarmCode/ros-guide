@@ -2,7 +2,7 @@
 
 *A levelling guide for **ROS (Realms of Simulacra)**, a MUD derived from RoT 2.0 and ROM 2.4. It assumes you have played graphical MMOs but never a MUD.*
 
-**To play:** connect to **`simlives.net`**, port **`4000`**, with a MUD client such as [Mudlet](https://www.mudlet.org/), or with plain telnet (`telnet simlives.net 4000`). Type a new name at the login prompt to create a character.
+**To play:** connect to **`ros.simlives.net`**, port **`4000`**, with a MUD client such as [Mudlet](https://www.mudlet.org/), or with plain telnet (`telnet ros.simlives.net 4000`). Type a new name at the login prompt to create a character.
 
 Everything below was taken from this server's own source code and area files, and checked by playing on a test copy of the game. Where the in-game `help` files disagree with how the game actually behaves, this guide follows the actual behaviour and says so.
 
