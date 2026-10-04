@@ -803,8 +803,8 @@ To get through one: enter, `look`, try exits methodically, and accept that you'l
 
 ## 15. Other players: channels, groups, clans and PK
 
-- **Newbie channel limits:** until **level 10**, `tell`, `reply`, `gtell` and the global channels are restricted. At level 10 you get the message *"You now have full channel permissions."* `say` (or `'`) always works in the same room. `help` and the `rules` are your friends.
-- **Channels:** `gossip` (`.`), `ooc`, `ask`/`answer`, `grats`, `auction`, `music`, `quote`, `shout` (everyone, with a delay), `yell` (your area), `tell <player>`, `reply`. Type a channel's name alone to turn it off. `forget <player>` ignores someone.
+- **Newbie channel limits:** `ooc` (or `.`) is open from **level 1** and reaches everyone in the game, so ask there if you're stuck. Until **level 10**, `tell`, `reply`, `gtell` and the other global channels are restricted. At level 10 you get the message *"You now have full channel permissions."* `say` (or `'`) always works in the same room. `help` and the `rules` are your friends.
+- **Channels:** `ooc` (`.`), `ask`/`answer`, `grats`, `auction`, `music`, `quote`, `shout` (everyone, with a delay), `yell` (your area), `tell <player>`, `reply`. Type a channel's name alone to turn it off. `forget <player>` ignores someone.
 - **Grouping:** `follow <leader>`, then the leader types `group <you>`. Members must be **within 14 levels** of each other. Grouped players share experience, auto-assist each other and can `gtell` (`;`). Auto-split shares coins. Don't kill-steal: attacking a monster someone else is fighting breaks the rules.
 - **Notes:** `note list`, `note read`, and `unread` to see what's waiting. The `news` and `changes` boards carry announcements.
 - **Clans and player-killing:**
@@ -843,7 +843,7 @@ GROW        practice  train  gain list   (all at the Dungeonmaster: 2s from the 
 QUEST       quest request|info|time|complete|list|buy   (Dungeonmaster, 2s)
             aquest   (Heimdall n 3u or Dungeonmaster 2s; from level 5; level quests at 50 and 100)
 MONEY       list  buy  sell  value   deposit/withdraw (multiples of 10 platinum)
-TALK        say (')  tell  reply  gtell (;)  gossip (.)  note  unread
+TALK        say (')  tell  reply  gtell (;)  ooc (.)  note  unread
 SETTINGS    scroll 0  prompt  colour  autolist  brief  compact  wimpy
 HELP        help <topic>   commands   rules   areas   route all   class <name> skill
 ```
